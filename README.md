@@ -1,21 +1,15 @@
-<h1 align="center">Hi, I'm Harsh Kumar 👋</h1>
+<h1 align="center">Hi, I'm Harsh 👋</h1>
 
-<h3 align="center">Data Scientist · Machine Learning Engineer · AI Application Developer</h3>
-
-<p align="center">
-  M.Tech, IIT Roorkee &nbsp;|&nbsp; I build end-to-end ML systems, from raw data to deployed dashboards and APIs
-</p>
+<h3 align="center">Data Scientist · ML Engineer · AI Developer</h3>
 
 ---
 
 ## 🙋 About Me
 
-- 🧠 I build **machine learning** systems that go all the way to production: data validation, feature engineering, honest evaluation, explainability and deployment
-- 📈 Experienced in **time-series forecasting**, **classification** and **clustering** with Scikit-learn, XGBoost, LightGBM, CatBoost and Prophet
-- 🤖 I build **AI applications** with LLMs (Gemini, Hugging Face, Ollama) and agent-style pipelines, keeping the critical decisions deterministic and auditable
-- ⚡ I ship my work as **FastAPI** services, **Streamlit** dashboards and **React** frontends, packaged with **Docker**
-- 🚀 Currently working on calibrated document extraction with vision-language models
-- 🤝 Open to collaborations on Data Science, Machine Learning and AI projects
+- 🧠 I build end-to-end **machine learning** projects, from raw data to deployed apps
+- 🤖 I work on **AI applications** with LLMs and agent-style pipelines
+- ⚡ I ship with **FastAPI**, **Streamlit**, **React** and **Docker**
+- 🤝 Open to collaborations on Data Science, ML and AI projects
 
 ---
 
@@ -76,11 +70,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech |
+| Project | Description | Tech |
 |---|---|---|
-| 📈 [**Retail Sales Forecasting**](https://github.com/harsh-k03/Retail-Sales-Forecasting)<br>[Live demo](https://retail-sales-forecasting03.streamlit.app/) | End-to-end demand forecasting platform: data validation, 60+ leakage-guarded features, walk-forward comparison of 6 models, SHAP explanations, scenario simulation and business recommendations | Python, XGBoost, LightGBM, CatBoost, Prophet, SHAP, Optuna, Streamlit, FastAPI, Docker |
-| 🚨 [**Evactive**](https://github.com/harsh-k03/Evactive) | Agentic AI command center for industrial plant evacuations: simulated fire and gas hazards, live re-routing of every worker, and LLM-written situation reports and bilingual (English/Hindi) announcements | Python, FastAPI, NumPy, React, WebSockets, Hugging Face, Ollama, Docker |
-| 🛡️ [**Contract Sentinel**](https://github.com/harsh-k03/ContractSentinel) | AI procurement auditor for construction projects: compares contracts, contractor invoices and site photos, flags over-claimed progress and generates PDF audit reports | Python, FastAPI, Google Gemini, React, Tailwind CSS |
-| 📊 [**Customer Churn Prediction**](https://github.com/harsh-k03/customer-analytics-churn-prediction)<br>[Live demo](https://customer-analytics-churn-prediction-aq9cfwftfz7jkwn4xszx6h.streamlit.app/) | Predicts telecom customer churn with a tuned Random Forest (ROC-AUC 0.83) and turns the results into business insights in a five-page dashboard | Python, Scikit-learn, Pandas, Plotly, Streamlit |
-| 🌍 [**Global Health Dashboard**](https://github.com/harsh-k03/global_health_dashboard)<br>[Live demo](https://global-health-analytics-dashboard.streamlit.app/) | Interactive analysis of World Bank health indicators with trend analysis, an animated world map and K-Means clustering of countries | Python, Pandas, Plotly, Scikit-learn, Streamlit |
-| 🧾 [**Attest**](https://github.com/harsh-k03/Attest) *(in progress)* | Document extraction system that knows when it is wrong: vision-language extraction with calibrated confidence, deterministic validation and a bounded repair loop | Python, Qwen2.5-VL, LangGraph, FastAPI, MySQL |
+| 📈 [**Retail Sales Forecasting**](https://github.com/harsh-k03/Retail-Sales-Forecasting)<br>[Live demo](https://retail-sales-forecasting03.streamlit.app/) | Demand forecasting platform comparing 6 models, with SHAP explanations and business insights | Python, XGBoost, Prophet, Streamlit, FastAPI |
+| 🚨 [**Evactive**](https://github.com/harsh-k03/Evactive) | AI command center for industrial plant evacuations with live re-routing | Python, FastAPI, React, LLMs |
+| 🛡️ [**Contract Sentinel**](https://github.com/harsh-k03/ContractSentinel) | AI auditor that checks construction invoices against contracts and site photos | FastAPI, Gemini, React |
+| 📊 [**Customer Churn Prediction**](https://github.com/harsh-k03/customer-analytics-churn-prediction)<br>[Live demo](https://customer-analytics-churn-prediction-aq9cfwftfz7jkwn4xszx6h.streamlit.app/) | Predicts customer churn and shows insights in an interactive dashboard | Scikit-learn, Streamlit |
+| 🌍 [**Global Health Dashboard**](https://github.com/harsh-k03/global_health_dashboard)<br>[Live demo](https://global-health-analytics-dashboard.streamlit.app/) | Explores World Bank health data with maps, trends and clustering | Plotly, Scikit-learn, Streamlit |
+| 🧾 [**Attest**](https://github.com/harsh-k03/Attest) *(in progress)* | Invoice extraction that flags its own uncertain fields | Python, VLMs, LangGraph |
