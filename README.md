@@ -8,7 +8,7 @@
 
 - 🧠 I build end-to-end **machine learning** projects, from raw data to deployed apps
 - 🤖 I work on **AI applications** with LLMs and agent-style pipelines
-- ⚡ I ship with **FastAPI**, **Streamlit**, **React** and **Docker**
+- ⚡ I ship with **FastAPI**, **Streamlit**, **React** and **Docker**, and deploy on **AWS**
 - 🤝 Open to collaborations on Data Science, ML and AI projects
 
 ---
@@ -18,7 +18,7 @@
 ### Core
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,docker,mysql,git,githubactions&perline=7" alt="Core skills: Python, Scikit-learn, FastAPI, Docker, MySQL, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,docker,aws,mysql,git,githubactions&perline=8" alt="Core skills: Python, Scikit-learn, FastAPI, Docker, AWS, MySQL, Git, GitHub Actions" />
 </p>
 
 ### Machine Learning & Data Science
@@ -54,6 +54,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,7 +74,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | 📈 [**Retail Sales Forecasting**](https://github.com/harsh-k03/Retail-Sales-Forecasting)<br>[Live demo](https://retail-sales-forecasting03.streamlit.app/) | Demand forecasting platform comparing 6 models, with SHAP explanations and business insights | Python, XGBoost, Prophet, Streamlit, FastAPI |
-| 🚨 [**Evactive**](https://github.com/harsh-k03/Evactive) | AI command center for industrial plant evacuations with live re-routing | Python, FastAPI, React, LLMs |
+| 🚨 [**Evactive**](https://github.com/harsh-k03/Evactive) | Agentic-AI command center for industrial plant evacuations with live re-routing, deployed on AWS | Python, FastAPI, React, LLMs, Docker, AWS |
 | 🛡️ [**Contract Sentinel**](https://github.com/harsh-k03/ContractSentinel) | AI auditor that checks construction invoices against contracts and site photos | FastAPI, Gemini, React |
 | 📊 [**Customer Churn Prediction**](https://github.com/harsh-k03/customer-analytics-churn-prediction)<br>[Live demo](https://customer-analytics-churn-prediction-aq9cfwftfz7jkwn4xszx6h.streamlit.app/) | Predicts customer churn and shows insights in an interactive dashboard | Scikit-learn, Streamlit |
 | 🌍 [**Global Health Dashboard**](https://github.com/harsh-k03/global_health_dashboard)<br>[Live demo](https://global-health-analytics-dashboard.streamlit.app/) | Explores World Bank health data with maps, trends and clustering | Plotly, Scikit-learn, Streamlit |
